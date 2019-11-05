@@ -4,6 +4,6 @@
 - React
 - GitHub
 - Travis
-- Dockhub
+- DockerHub
 - AWS Beanstalk
 
